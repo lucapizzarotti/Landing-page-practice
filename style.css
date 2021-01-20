@@ -102,19 +102,11 @@ footer > .container {
   justify-content: center;
   align-items: center;
   font-size: 1.3rem;
-}
-
-.link a {
-  text-decoration: none;
-  color: #fff;
+  cursor: pointer;
 }
 
 .link:hover {
   border: 1px solid var(--Soft-Magenta);
-  color: var(--Soft-Magenta);
-}
-
-.link a:hover {
   color: var(--Soft-Magenta);
 }
 
